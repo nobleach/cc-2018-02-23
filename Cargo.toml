@@ -1,0 +1,6 @@
+[package]
+name = "rust-balanced-brackets"
+version = "0.1.0"
+authors = ["Jim Wharton <jimwharton@overstock.com>"]
+
+[dependencies]
